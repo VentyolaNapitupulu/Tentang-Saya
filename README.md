@@ -1,2 +1,2 @@
 # Tentang-Saya
-Repository pertama tentang aku dan resolusi
+Repository pertama tentangku dan resolusiku
